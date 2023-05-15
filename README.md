@@ -26,7 +26,7 @@ Note: Please make sure you have your OpenAI API Key Replaced in the Code.
 2. Change to the project directory:
 
    ```shell
-   cd Django-AICodeBot
+   cd .\codebot\
    ```
 
 3. Create a virtual environment (optional but recommended):
